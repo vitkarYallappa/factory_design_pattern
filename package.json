@@ -1,5 +1,5 @@
 {
-  "name": "dependency_injection_pattern",
+  "name": "factory_design_pattern",
   "version": "1.0.0",
   "description": "The Factory Design Pattern is a creational design pattern that provides an interface for creating objects without specifying the exact class of the object that will be created.",
   "main": "index.js",
